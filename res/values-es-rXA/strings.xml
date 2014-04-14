@@ -17,10 +17,10 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Provedor de Temas</string>
-  <string name="permlab_access_DrmThemeResources">Ler recursos de mídia protegidos por DRM</string>
-  <string name="permdesc_access_DrmThemeResources">Permite que o aplicativo leia recursos de mídia protegidos por DRM de pacotes temáticos.</string>
-  <string name="permlab_set_theme">Definir tema global</string>
-  <string name="permdesc_set_theme" product="tablet">Permite que o aplicativo alterar o tema visual do seu tablet.</string>
-  <string name="permdesc_set_theme" product="default">Permite que o aplicativo alterar o tema visual do seu telegone.</string>
+  <string name="app_name">Fornidor de temes</string>
+  <string name="permlab_access_DrmThemeResources">lleer los recursos multimedia con proteición DRM</string>
+  <string name="permdesc_access_DrmThemeResources">Permitir que l\'aplicación llea los recursos multimedia de los paquetes de temes con proteición DRM.</string>
+  <string name="permlab_set_theme">Afitar un tema global</string>
+  <string name="permdesc_set_theme" product="tablet">Permitir que l\'aplicación camude l\'aspeutu visual de la tablet.</string>
+  <string name="permdesc_set_theme" product="default">Permitir que l\'aplicación camude l\'aspeutu visual del teléfonu.</string>
 </resources>
